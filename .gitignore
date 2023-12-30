@@ -1,0 +1,5 @@
+*.log
+*.tgz
+cache
+node_modules
+.vitepress/cache
