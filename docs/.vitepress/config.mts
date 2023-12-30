@@ -53,9 +53,17 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
       text: 'Guide',
       collapsed: false,
       items: [
-        { text: 'Installation', link: 'what-is-vitepress' },
-        { text: 'Utilities', link: 'getting-started' },
-        { text: 'FAQs', link: 'getting-started' }
+        {
+          text: 'Installation',
+          base: '/shaders/installation-',
+          link: 'all',
+          items: [
+            { text: 'Android', link: 'android' },
+            { text: 'Windows', link: 'windows' },
+            { text: 'iOS', link: 'ios' },
+            { text: 'Linux', link: 'linux' }
+          ]
+        }
       ]
     },
     {
@@ -63,8 +71,8 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Explore', link: 'front-page' },
-        { text: 'Forward', link: 'rd' },
-        { text: 'Deferred', link: 'deferred' }
+        { text: 'Forward', link: 'list-rd' },
+        { text: 'Deferred', link: 'list-deferred' }
       ]
     }
   ]

@@ -1,2 +1,0 @@
-
-# Shaders for Deferred Pipeline

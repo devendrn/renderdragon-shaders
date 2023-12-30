@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "RenderDragon Shaders"
   text: "for MCBE"
-  tagline: An unoffical curated list and documentation about RenderDragon Shaders
+  tagline: An unofficial curated list and documentation about RenderDragon Shaders
   actions:
     - theme: brand
       text: Explore shaders
