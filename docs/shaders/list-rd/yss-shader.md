@@ -19,22 +19,24 @@ One of the earliest RenderDragon shader.
 * Supported platforms: Android, Windows, iOS
 * Discord server: [Years Static Shader Group](https://discord.gg/yss)
 
-### Download
-
-::: tip Latest version
+### Download <Badge type="warning" text="Beta" />
 
 Supported Minecraft versions: 1.20.40+
 
-| **v1.9.8 beta 3**  | [Android/Windows/iOS/Xbox](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip) |
-|-|-|
-| **v1.9.8 beta 3 lite** | [Android/Windows/iOS](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip) |
+::: tip v1.9.8 Beta 3
+
+* [Android/Windows/iOS/Xbox](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
+
+:::
+
+::: tip v1.9.8 Beta 3 Lite
+
+* [Android/Windows/iOS](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
 
 :::
 
 ::: details Older versions
 
-| TODO - add older versions | | |
-|-|-|-|
-
+ TODO - add older versions 
 
 :::

@@ -20,18 +20,18 @@ Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a van
 
 ### Download
 
-::: tip Latest version
-
 Supported Minecraft versions: 1.20.40+
 
-| **v15.0** | [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-android.mcpack) | [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-windows.mcpack) | [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-ios.zip) |
-|-|-|-|-|
+::: tip v15.0
+
+* [Android](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-android.mcpack)
+* [Windows](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-windows.mcpack)
+* [iOS](https://github.com/devendrn/newb-x-mcbe/releases/download/v15/newb-x-15-ios.zip)
 
 :::
 
 ::: details Older versions
 
-| TODO - add older versions | | |
-|-|-|-|
+TODO - add older versions 
 
 :::

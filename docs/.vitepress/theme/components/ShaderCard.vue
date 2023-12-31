@@ -1,12 +1,14 @@
 <template>
-    <div class="shader-card" >
-        <img loading="lazy" :src="image" :alt="name" style="width:100%">
-        <div class="container">
-            <h4>{{ name }}</h4>
-            <span v-for="tag in tags">{{ tag }}</span>
-        </div>
-        <a :href="href" class="href-fill"></a>
+  <div class="shader-card" >
+    <img loading="lazy" :src="image" :alt="name" style="width:100%">
+    <div class="container">
+      <h4>{{ name }}</h4>
+      <div class="tags">
+        <span v-for="tag in tags">{{ tag }}</span>
+      </div>
     </div>
+    <a :href="href" class="href-fill"></a>
+  </div>
 </template>
 
 <script>
@@ -70,13 +72,18 @@ export default {
   margin-bottom: 16px;
 }
 
-.shader-card span {
-  font-size: 14px;
-  background-color: var(--vp-c-green-soft);
-  margin-right: 8px;
-  padding: 5px 8px;
-  border: 1.9px solid var(--vp-c-gray-1);
-  border-radius: 6px;
+.shader-card .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
+
+.shader-card .tags span {
+  font-size: 12px;
+  padding: 2px 10px;
+  color: var(--vp-badge-tip-text);
+  background-color: var(--vp-badge-tip-bg);
+  border-radius: 20px;
 }
 
 </style>
