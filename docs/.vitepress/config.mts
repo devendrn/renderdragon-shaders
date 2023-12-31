@@ -51,7 +51,6 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Guide',
-      collapsed: false,
       items: [
         {
           text: 'Installation',
@@ -68,11 +67,27 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Shaders List',
-      collapsed: false,
       items: [
         { text: 'Explore', link: 'front-page' },
-        { text: 'Forward', link: 'list-rd' },
-        { text: 'Deferred', link: 'list-deferred' }
+        {
+          text: 'Forward',
+          base: '/shaders/list-',
+          link: 'rd',
+          collapsed: true,
+          items: [
+            { text: 'YSS Shader', link: 'rd/yss-shader' },
+            { text: 'Newb X Legacy', link: 'rd/newb-shader' },
+          ]
+        },
+        {
+          text: 'Deferred',
+          base: '/shaders/list-',
+          link: 'deferred',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
       ]
     }
   ]
