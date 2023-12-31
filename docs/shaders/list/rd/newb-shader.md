@@ -1,3 +1,10 @@
+---
+name: 'Newb X Legacy'
+tags: ["Android", "Windows", "iOS"]
+banner: '/renderdragon-shaders/images/newb-shader-banner.jpg'
+last_updated: 2023-09-06
+---
+
 # Newb X Legacy
 
 <Gallery 
@@ -10,6 +17,7 @@ alt="Newb X Legacy Screenshots"
 />
 
 ### Description
+
 
 Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a vanilla shader based on the theme "lightweight and soft aesthetics
 

@@ -1,7 +1,14 @@
+---
+name: 'YSS Shader'
+tags: ['Android', 'Windows', 'iOS', 'Xbox', 'Switch']
+banner: '/renderdragon-shaders/images/yss-shader-banner.jpg'
+last_updated: 2023-11-30
+---
+
 # YSS Shader
 
 <Gallery 
-alt="YSS Screenshots"
+alt='YSS Screenshots'
 :images="[
     '/renderdragon-shaders/images/yss-shader-banner.jpg',
     '/renderdragon-shaders/images/yss-shader-banner.jpg',
@@ -16,7 +23,7 @@ One of the earliest RenderDragon shader.
 
 * Source code: Closed source
 * License: Not specified
-* Supported platforms: Android, Windows, iOS
+* Supported platforms: Android, Windows, iOS, XBox, Switch
 * Discord server: [Years Static Shader Group](https://discord.gg/yss)
 
 ### Download <Badge type="warning" text="Beta" />

@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Explore shaders
-      link: /shaders/index
+      link: ko/shaders/index
     - theme: alt
       text: GitHub
       link: https://github.com/devendrn/renderdragon-shaders

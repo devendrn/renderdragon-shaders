@@ -1,6 +1,6 @@
 <template>
   <div class="shader-card" >
-    <img loading="lazy" :src="image" :alt="name" style="width:100%">
+    <img loading="lazy" :src="banner" :alt="name" style="width:100%">
     <div class="container">
       <h4>{{ name }}</h4>
       <div class="tags">
@@ -18,7 +18,7 @@ export default {
             type: String,
             required: true,
         },
-        image: {
+        banner: {
             type: String,
             required: true,
         },
@@ -30,7 +30,7 @@ export default {
             type: String,
             required: true,
         },
-    },
+    }
 };
 </script>
 
@@ -75,7 +75,7 @@ export default {
 .shader-card .tags {
   display: flex;
   flex-wrap: wrap;
-  gap:10px;
+  gap: 8px;
 }
 
 .shader-card .tags span {

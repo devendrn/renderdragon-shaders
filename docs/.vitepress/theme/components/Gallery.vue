@@ -70,7 +70,7 @@ export default {
   display: flex;
   overflow-x: scroll;
   scroll-behavior: smooth;
-  border-radius: 6px;
+  border-radius: 8px;
   list-style: none;
   margin: 20px 0 0 0;
   padding: 0;
