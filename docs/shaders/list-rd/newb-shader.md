@@ -13,7 +13,7 @@ alt="Newb X Legacy Screenshots"
 
 Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a vanilla shader based on the theme "lightweight and soft aesthetics
 
-* Source code: [newb-x-mcbe]()
+* Source code: [newb-x-mcbe](https://github.com/devendrn/newb-x-mcbe)
 * License: Not specified
 * Supported platforms: Android, Windows, iOS
 * Discord server: [Newb Community](https://discord.gg/newb-community-844591537430069279)

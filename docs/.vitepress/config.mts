@@ -5,6 +5,7 @@ export default defineConfig({
   description: "Unofficial documentation page for RenderDragon Shaders",
   base: '/renderdragon-shaders/',
   lastUpdated: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     search: {
       provider: 'local'
@@ -85,7 +86,7 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
           link: 'deferred',
           collapsed: true,
           items: [
-            
+
           ]
         },
       ]
