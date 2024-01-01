@@ -6,7 +6,7 @@ This documentation website is still in its early stage of development! Please do
 :::
 
 Minecraft Bedrock does not officially support loading of third-party RenderDragon shaders.
-Please see the [installation guide](installation/) for instructions on how to use/install these shaders.
+Please see the [installation guide](installation/start) for instructions on how to use/install these shaders.
 
 ## RenderDragon Shaders
 
