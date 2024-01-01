@@ -1,7 +1,7 @@
 ---
 name: 'Newb X Legacy'
 tags: ["Android", "Windows", "iOS"]
-banner: '/renderdragon-shaders/images/newb-shader-banner.jpg'
+banner: '/renderdragon-shaders/images/newb-shader-0.jpg'
 last_updated: 2023-09-06
 ---
 
@@ -10,14 +10,14 @@ last_updated: 2023-09-06
 <Gallery 
 alt="Newb X Legacy Screenshots"
 :images="[
-    '/renderdragon-shaders/images/newb-shader-banner.jpg',
-    '/renderdragon-shaders/images/newb-shader-banner.jpg',
-    '/renderdragon-shaders/images/newb-shader-banner.jpg',
+    '/renderdragon-shaders/images/newb-shader-0.jpg',
+    '/renderdragon-shaders/images/newb-shader-1.jpg',
+    '/renderdragon-shaders/images/newb-shader-2.jpg',
+    '/renderdragon-shaders/images/newb-shader-3.jpg',
     ]"
 />
 
 ### Description
-
 
 Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a vanilla shader based on the theme "lightweight and soft aesthetics
 
@@ -25,6 +25,7 @@ Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a van
 * License: Not specified
 * Supported platforms: Android, Windows, iOS
 * Discord server: [Newb Community](https://discord.gg/newb-community-844591537430069279)
+* Website: [Newb Shader](https://devendrn.github.io/newb-shader/)
 
 ### Download
 
@@ -43,3 +44,9 @@ Supported Minecraft versions: 1.20.40+
 TODO - add older versions 
 
 :::
+
+## Newb Variants
+
+Since Newb X Legacy is open source, there are many variations made by users. You can find those in their Discord server.
+
+TODO - add variants

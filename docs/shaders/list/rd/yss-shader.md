@@ -1,7 +1,7 @@
 ---
 name: 'YSS Shader'
 tags: ['Android', 'Windows', 'iOS', 'Xbox', 'Switch']
-banner: '/renderdragon-shaders/images/yss-shader-banner.jpg'
+banner: '/renderdragon-shaders/images/yss-shader-0.jpg'
 last_updated: 2023-11-30
 ---
 
@@ -10,10 +10,10 @@ last_updated: 2023-11-30
 <Gallery 
 alt='YSS Screenshots'
 :images="[
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg'
+    '/renderdragon-shaders/images/yss-shader-0.jpg',
+    '/renderdragon-shaders/images/yss-shader-1.jpg',
+    '/renderdragon-shaders/images/yss-shader-2.jpg',
+    '/renderdragon-shaders/images/yss-shader-3.jpg'
     ]"
 />
 
@@ -28,7 +28,7 @@ One of the earliest RenderDragon shader.
 
 ### Download <Badge type="warning" text="Beta" />
 
-Supported Minecraft versions: 1.20.40+
+Supported Minecraft versions: 1.20.15+
 
 ::: tip v1.9.8 Beta 3
 

@@ -1,7 +1,7 @@
 ---
 name: 'YSS Special Edition'
 tags: ['Android', 'Windows']
-banner: '/renderdragon-shaders/images/yss-shader-banner.jpg'
+banner: '/renderdragon-shaders/images/yss-se-0.jpg'
 last_updated: 2023-12-14
 ---
 
@@ -10,16 +10,15 @@ last_updated: 2023-12-14
 <Gallery 
 alt='YSS SE Screenshots'
 :images="[
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg',
-    '/renderdragon-shaders/images/yss-shader-banner.jpg'
+    '/renderdragon-shaders/images/yss-se-0.jpg',
+    '/renderdragon-shaders/images/yss-se-1.jpg',
+    '/renderdragon-shaders/images/yss-se-2.jpg'
     ]"
 />
 
 ### Description
 
-One of the earliest RenderDragon shader. 
+Also one of the earliest RenderDragon shader to use the deferred pipeline. 
 
 * Source code: Closed source
 * License: Not specified
@@ -28,7 +27,7 @@ One of the earliest RenderDragon shader.
 
 ### Download <Badge type="danger" text="Beta" />
 
-Supported Minecraft versions: 1.20.40+
+Minecraft Preview 1.20.50.21 or above required!
 
 ::: tip 1.9.7.6 Beta
 

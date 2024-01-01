@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Explore shaders
-      link: ko/shaders/index
+      link: ./shaders/start
     - theme: alt
       text: GitHub
       link: https://github.com/devendrn/renderdragon-shaders
@@ -22,7 +22,7 @@ features:
     details: Community sourced list of RenderDragon shaders for MCBE
   - icon: 🛠️
     title: Documentation
-    details: Unofficial resources for building RenderDragon shaders
+    details: Unofficial documentation about building RenderDragon shaders
   - icon: 📝
     title: Open Source
     details: Edits and contributions made by community members

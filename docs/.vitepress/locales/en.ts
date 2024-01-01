@@ -7,18 +7,24 @@ export const enConfig = defineConfig({
     nav: [
       {
         text: 'Shaders',
-        link: '/shaders/index',
+        link: '/shaders/start',
         activeMatch: '/shaders/'
       },
       {
         text: 'Docs',
-        link: '/docs/getting-started',
+        link: '/docs/start',
         activeMatch: '/docs/'
       }
     ],
     sidebar: {
-      '/shaders/': { base: '/shaders/', items: sidebarShaders() },
-      '/docs/': { base: '/docs/', items: sidebarDocs() }
+      '/shaders/': {
+        base: '/shaders/',
+        items: sidebarShaders() 
+       },
+      '/docs/': {
+        base: '/docs/',
+        items: sidebarDocs()
+      }
     },
     editLink: {
       pattern: 'https://github.com/devendrn/renderdragon-shaders/edit/main/docs/:path',
@@ -37,8 +43,8 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
       items: [
         {
           text: 'Installation',
-          base: 'shaders/installation/',
-          link: 'index',
+          base: '/shaders/installation/',
+          link: 'start',
           items: [
             { text: 'Android', link: 'android' },
             { text: 'Windows', link: 'windows' },
@@ -51,18 +57,9 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
     {
       text: 'Shaders List',
       items: [
-        { 
-          text: 'Explore',
-          link: 'index' 
-        },
-        {
-          text: 'Forward',
-          link: 'list/rd'
-        },
-        {
-          text: 'Deferred',
-          link: 'list/deferred'
-        },
+        { text: 'Explore', link: 'start' },
+        { text: 'Forward', link: 'list/rd' },
+        { text: 'Deferred', link: 'list/deferred' },
       ]
     }
   ]

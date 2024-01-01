@@ -7,18 +7,24 @@ export const koConfig = defineConfig({
     nav: [
       {
         text: 'Shaders',
-        link: '/ko/shaders/index',
-        activeMatch: '/ko/shaders/'
+        link: '/ko/shaders/start',
+        activeMatch: '/shaders/'
       },
       {
         text: 'Docs',
-        link: '/ko/docs/getting-started',
-        activeMatch: '/ko/docs/'
+        link: '/ko/docs/start',
+        activeMatch: '/docs/'
       }
     ],
     sidebar: {
-      '/ko/shaders/': { base: '/ko/shaders/', items: sidebarShaders() },
-      '/ko/docs/': { base: '/ko/docs/', items: sidebarDocs() }
+      '/ko/shaders/': {
+        base: '/ko/shaders/',
+        items: sidebarShaders() 
+       },
+      '/ko/docs/': {
+        base: '/ko/docs/',
+        items: sidebarDocs()
+      }
     },
     editLink: {
       pattern: 'https://github.com/devendrn/renderdragon-shaders/edit/main/docs/:path',
@@ -37,8 +43,8 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
       items: [
         {
           text: 'Installation',
-          base: 'ko/shaders/installation/',
-          link: 'index',
+          base: '/ko/shaders/installation/',
+          link: 'start',
           items: [
             { text: 'Android', link: 'android' },
             { text: 'Windows', link: 'windows' },
@@ -51,18 +57,9 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
     {
       text: 'Shaders List',
       items: [
-        { 
-          text: 'Explore',
-          link: 'index' 
-        },
-        {
-          text: 'Forward',
-          link: 'list/rd'
-        },
-        {
-          text: 'Deferred',
-          link: 'list/deferred'
-        },
+        { text: 'Explore', link: 'start' },
+        { text: 'Forward', link: 'list/rd' },
+        { text: 'Deferred', link: 'list/deferred' },
       ]
     }
   ]
