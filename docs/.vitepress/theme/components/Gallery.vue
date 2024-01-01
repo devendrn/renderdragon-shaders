@@ -2,7 +2,7 @@
 <div class="gallery">
     <ul class="slides">
         <li v-for="img in images">
-            <img loading="lazy" :src="img" :alt="alt" style="width:100%">
+            <img loading="lazy" :src="img" style="width:100%">
         </li>  
     </ul>
     <ul class="nav-indicators">
@@ -14,10 +14,6 @@
 <script>
 export default {
     props: {
-        alt: {
-            type: String,
-            required: true,
-        },
         images: {
             type: Array,
             required: true,

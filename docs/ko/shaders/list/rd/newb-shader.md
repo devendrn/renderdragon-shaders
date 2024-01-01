@@ -7,8 +7,7 @@ last_updated: 2023-09-06
 
 # Newb X Legacy
 
-<Gallery 
-alt="Newb X Legacy Screenshots"
+<Gallery
 :images="[
     '/renderdragon-shaders/images/newb-shader-0.jpg',
     '/renderdragon-shaders/images/newb-shader-1.jpg',
@@ -29,7 +28,7 @@ Newb X Legacy is a ported version of newb-shader-mcbe for MCBE 1.20. It is a van
 
 ### Download
 
-Supported Minecraft versions: 1.20.40+
+Supported Minecraft versions: 1.20.15+
 
 ::: tip v15.0
 

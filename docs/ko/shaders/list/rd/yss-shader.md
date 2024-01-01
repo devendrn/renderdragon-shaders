@@ -8,7 +8,6 @@ last_updated: 2023-11-30
 # YSS Shader
 
 <Gallery 
-alt='YSS Screenshots'
 :images="[
     '/renderdragon-shaders/images/yss-shader-0.jpg',
     '/renderdragon-shaders/images/yss-shader-1.jpg',
@@ -28,7 +27,7 @@ One of the earliest RenderDragon shader.
 
 ### Download <Badge type="warning" text="Beta" />
 
-Supported Minecraft versions: 1.20.40+
+Supported Minecraft versions: 1.20.15+
 
 ::: tip v1.9.8 Beta 3
 

@@ -1,6 +1,6 @@
 <template>
   <div class="shader-card" >
-    <img loading="lazy" :src="banner" :alt="name" style="width:100%">
+    <img loading="lazy" :src="banner" style="width:100%">
     <div class="container">
       <h4>{{ name }}</h4>
       <div class="tags">

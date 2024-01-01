@@ -8,7 +8,6 @@ last_updated: 2023-11-30
 # YSS Shader
 
 <Gallery 
-alt='YSS Screenshots'
 :images="[
     '/renderdragon-shaders/images/yss-shader-0.jpg',
     '/renderdragon-shaders/images/yss-shader-1.jpg',

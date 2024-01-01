@@ -7,8 +7,7 @@ last_updated: 2023-12-14
 
 # YSS Special Edition
 
-<Gallery 
-alt='YSS SE Screenshots'
+<Gallery
 :images="[
     '/renderdragon-shaders/images/yss-se-0.jpg',
     '/renderdragon-shaders/images/yss-se-1.jpg',

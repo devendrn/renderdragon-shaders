@@ -7,8 +7,7 @@ last_updated: 2023-09-06
 
 # Newb X Legacy
 
-<Gallery 
-alt="Newb X Legacy Screenshots"
+<Gallery
 :images="[
     '/renderdragon-shaders/images/newb-shader-0.jpg',
     '/renderdragon-shaders/images/newb-shader-1.jpg',

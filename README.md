@@ -78,8 +78,7 @@ Since the page structure is not completely finalized, only the following contrib
 
    # <Shader name>
    
-   <Gallery 
-   alt="<Shader name> screenshots"
+   <Gallery
    :images="<Screenshot urls>"
    />
 
@@ -102,7 +101,7 @@ Since the page structure is not completely finalized, only the following contrib
    * **Name**: `shader-name-<number>.jpg`  
     `shader-name-0.jpg` should be used as banner image
    * **Type**: jpg (under 250kb)
-   * **Number**: Atleast 3 images, maximum allowed is 8
+   * **Number**: At least 3 images, maximum allowed is 8
 
 4. Preview and verify the changes before making a pull request
 
