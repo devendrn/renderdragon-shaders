@@ -32,7 +32,15 @@ export const koConfig = defineConfig({
     },
     footer: {
       message: "This site is not affiliated with Mojang Studios."
-    }
+    },
+    docFooter: {
+      prev: "Previous page",
+      next: "Next page"
+    },
+    sidebarMenuLabel: "Menu",
+    returnToTopLabel: "Return to top",
+    lastUpdated: { text: "Last updated" },
+    outline: { label: "On this page" }
   }
 })
   
