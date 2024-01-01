@@ -4,10 +4,10 @@ layout: home
 hero:
   name: "RenderDragon Shaders"
   text: "for MCBE"
-  tagline: An unofficial curated list and documentation about RenderDragon Shaders
+  tagline: 렌더드래곤 셰이더에 대한 비공식 선별 목록 및 문서
   actions:
     - theme: brand
-      text: Explore shaders
+      text: 셰이더 살펴보기
       link: ./shaders/start
     - theme: alt
       text: GitHub
@@ -18,17 +18,17 @@ hero:
 
 features:
   - icon: 📃
-    title: Shaders
-    details: Community sourced list of RenderDragon shaders for MCBE
+    title: 셰이더
+    details: 커뮤니티에서 제공하는 MCPE용 Render Dragon 셰이더 목록
   - icon: 🛠️
-    title: Documentation
-    details: Unofficial documentation about building RenderDragon shaders
+    title: 문서
+    details: RenderDragon 셰이더 구축에 관한 비공식 문서
   - icon: 📝
-    title: Open Source
-    details: Edits and contributions made by community members
+    title: 오픈 소스
+    details: 커뮤니티 회원의 편집 및 기여
   - icon: 🚀
-    title: Uses VitePress
-    details: Simple, powerful, and fast modern SSG framework
+    title: VitePress 사용됨
+    details: 간단하고 강력하며 빠른 최신 SSG 프레임워크
   
 ---
 

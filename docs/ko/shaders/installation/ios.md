@@ -1,16 +1,16 @@
-# Installation on iOS
+# iOS 설치법
 
-::: danger Not recommended
+::: danger 권장하지 않음
 
-Unlike other platforms, installing shaders on iOS is very tricky. Please don't follow this guide if you don't understand what you are doing!
+다른 플랫폼과 달리, iOS에서 셰이더를 설치하는 것은 매우 까다롭습니다. 무엇을 하고 있는지 이해하지 못한다면 이 가이드를 따르지 마세요!
 
 :::
 
-## Using Scarlet
+## Scarlet 사용
 
 !! TODO !!
 
 
-## Jailbreak method
+## 탈옥
 
 !! TODO !!

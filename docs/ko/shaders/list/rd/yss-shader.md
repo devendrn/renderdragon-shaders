@@ -1,6 +1,6 @@
 ---
 name: 'YSS Shader'
-tags: ['Android', 'Windows', 'iOS', 'Xbox', 'Switch']
+tags: ['안드로이드', '윈도우', 'iOS', 'Xbox', '스위치']
 banner: '/renderdragon-shaders/images/yss-shader-0.jpg'
 last_updated: 2023-11-30
 ---
@@ -16,32 +16,32 @@ last_updated: 2023-11-30
     ]"
 />
 
-### Description
+### 설명
 
-One of the earliest RenderDragon shader. 
+최초의 RenderDragon 셰이더 중 하나.
 
-* Source code: Closed source
-* License: Not specified
-* Supported platforms: Android, Windows, iOS, XBox, Switch
-* Discord server: [Years Static Shader Group](https://discord.gg/yss)
+* 소스코드: 비공개 소스
+* 라이선스: 명시되지 않음
+* 지원되는 플랫폼: 안드로이드, 윈도우, iOS, XBox, 스위치
+* 디스코드 서버: [Years Static Shader Group](https://discord.gg/yss)
 
-### Download <Badge type="warning" text="Beta" />
+### 다운로드 <Badge type="warning" text="베타" />
 
-Supported Minecraft versions: 1.20.15+
+지원되는 마인크래프트 버전: 1.20.15+
 
 ::: tip v1.9.8 Beta 3
 
-* [Android/Windows/iOS/Xbox](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
+* [안드로이드/윈도우/iOS/Xbox](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip)
 
 :::
 
 ::: tip v1.9.8 Beta 3 Lite
 
-* [Android/Windows/iOS](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
+* [안드로이드/윈도우/iOS](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip)
 
 :::
 
-::: details Older versions
+::: details 구 버전
 
  TODO - add older versions 
 

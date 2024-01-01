@@ -1,6 +1,6 @@
-# Installation on Windows
+# Windows 설치법
 
-## Using BetterRenderDragon
+## BetterRenderDragon 사용
 
 !! TODO !!
 

@@ -1,6 +1,6 @@
-# Installation on Linux
+# Linux 설치법
 
-This guide is for the unofficial Minecraft Bedrock Launcher on Linux, [mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest)
+이 가이드는 리눅스용 비공식 마인크래프트 베드락 런처를 위한 것입니다, [mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest)
 
 ## Manual method
 
