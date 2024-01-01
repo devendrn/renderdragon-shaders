@@ -1,10 +1,10 @@
-# Installation
+# 설치법
 
-Because Minecraft does not officially support third-party RenderDragon shaders, you have to use some tools and programs to install these shaders. 
+마인크래프트가 공식적으로 제3자 RenderDragon 셰이더를 지원하지 않기 때문에, 이 셰이더를 설치하기 위해 몇 가지 도구와 프로그램을 사용해야 합니다.
 
-Currently, the following platforms are supported by third-party shaders:
+현재, 다음 플랫폼들이 제3자 셰이더에 의해 지원됩니다:
 
-* [Android](android)
-* [Windows](windows)
+* [안드로이드](android)
+* [윈도우](windows)
 * [iOS](ios)
-* [Linux](linux)
+* [리눅스](linux)
