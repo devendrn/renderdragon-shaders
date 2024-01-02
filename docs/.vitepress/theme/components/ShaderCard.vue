@@ -46,7 +46,8 @@ export default {
 }
 
 .shader-card img {
-  height: 100px;
+  height: 130px;
+  width: 100%;
   object-fit: cover;
 }
 
@@ -69,7 +70,7 @@ export default {
 
 .shader-card h4 {
   font-size: 26px;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
 .shader-card .tags {
@@ -80,7 +81,7 @@ export default {
 
 .shader-card .tags span {
   font-size: 12px;
-  padding: 2px 10px;
+  padding: 1px 10px;
   color: var(--vp-badge-tip-text);
   background-color: var(--vp-badge-tip-bg);
   border-radius: 20px;

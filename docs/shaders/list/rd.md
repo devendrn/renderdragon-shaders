@@ -1,3 +1,6 @@
+---
+editLink: false
+---
 # Shaders for RenderDragon
 
 <script setup>

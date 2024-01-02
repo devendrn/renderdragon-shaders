@@ -9,11 +9,11 @@ last_updated: 2023-11-30
 
 <Gallery 
 :images="[
-    '/renderdragon-shaders/images/yss-shader-0.jpg',
-    '/renderdragon-shaders/images/yss-shader-1.jpg',
-    '/renderdragon-shaders/images/yss-shader-2.jpg',
-    '/renderdragon-shaders/images/yss-shader-3.jpg'
-    ]"
+  '/renderdragon-shaders/images/yss-shader-0.jpg',
+  '/renderdragon-shaders/images/yss-shader-1.jpg',
+  '/renderdragon-shaders/images/yss-shader-2.jpg',
+  '/renderdragon-shaders/images/yss-shader-3.jpg'
+  ]"
 />
 
 ### Description

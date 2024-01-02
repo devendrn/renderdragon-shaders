@@ -9,10 +9,10 @@ last_updated: 2023-12-14
 
 <Gallery
 :images="[
-    '/renderdragon-shaders/images/yss-se-0.jpg',
-    '/renderdragon-shaders/images/yss-se-1.jpg',
-    '/renderdragon-shaders/images/yss-se-2.jpg'
-    ]"
+  '/renderdragon-shaders/images/yss-se-0.jpg',
+  '/renderdragon-shaders/images/yss-se-1.jpg',
+  '/renderdragon-shaders/images/yss-se-2.jpg'
+  ]"
 />
 
 ### Description
@@ -20,7 +20,6 @@ last_updated: 2023-12-14
 Also one of the earliest RenderDragon shader to use the deferred pipeline. 
 
 * Source code: Closed source
-* License: Not specified
 * Supported platforms: Android, Windows
 * Discord server: [Years Static Shader Group](https://discord.gg/yss)
 
