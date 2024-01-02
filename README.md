@@ -15,7 +15,7 @@ This is an unofficial static documentation page about RenderDragon shaders, also
 | Home | ✅ |
 | Installation start<br>Android<br>Windows<br>iOS<br>Linux | ✅<br>❌<br>❌<br>❌<br>❌ |
 | RD Docs | ✖️ |
-| Shaders start<br>RD List<br>Deferred List | ✅<br>❌<br>❌ |
+| Shaders start<br>RD List<br>Deferred List | ✅<br>❌<br>✅ |
 
 ## Pages structure
 
