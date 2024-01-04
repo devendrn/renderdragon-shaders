@@ -8,3 +8,4 @@ Currently, the following platforms are supported by third-party shaders:
 * [Windows](windows)
 * [iOS](ios)
 * [Linux](linux)
+* Switch*

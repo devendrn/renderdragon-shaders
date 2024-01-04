@@ -67,7 +67,15 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
 
 function sidebarDocs(): DefaultTheme.SidebarItem[] {
   return [
-    
+    {
+      text: 'Documentation',
+      items: [
+        { text: 'Getting started', link: 'start' },
+        { text: 'Building shaders', link: 'build' },
+        { text: 'Extra', link: 'extra' },
+        { text: 'Utilities', link: 'utilities' }
+      ]
+    }
   ]
 }
   

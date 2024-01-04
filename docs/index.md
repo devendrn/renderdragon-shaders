@@ -19,7 +19,7 @@ hero:
 features:
   - icon: 📃
     title: Shaders
-    details: Community sourced list of RenderDragon shaders for MCBE
+    details: Community-sourced list of RenderDragon shaders for MCBE
   - icon: 🛠️
     title: Documentation
     details: Unofficial documentation about building RenderDragon shaders

@@ -5,11 +5,11 @@
 
 ::: info For 64-bit devices only!
 
-As of now there is only a 64-bit version of Patch App. If you have a 32-bit device, follow [manual method](#manual-method)
+As of now, there is only a 64-bit version of Patch App. If you have a 32-bit device, follow [manual method](#manual-method)
 
 :::
 
-The **Patch App** is a modified Minecraft app that includes **MaterialBinLoader**, which is a patch to make the game load RenderDragon shader files (material.bin) from resource packs, similar to how shaders were loaded in old engine. 
+The **Patch App** is a modified Minecraft app that includes **MaterialBinLoader**, which is a patch to make the game load RenderDragon shader files (material.bin) from resource packs, similar to how shaders were loaded in the old engine. 
 
 
 * [Minecraft-1.20.41.02_arm64_v8a_patched.apk](https://download2391.mediafire.com/c6gdbcv0jeqgNaGwGVOXqur2W2qehRvg2vZpG6rufpxszrULg9uiXlwAMSWY1KXlLt7v2SwVAeGudQxyPSBNct8wczEyydLKHlm2fUHHvYPtBcecaLqVYOa-tO3sO4z0HTB-5tASe5XNmtOFLDqpbj5YnGks94AFMgx_pqqp_w/eyhdpgboshmwlq1/1.20.41.02_arm64_v8a_patched.apk)
