@@ -3,24 +3,34 @@
 This page will include random things that might be useful to a small niche of users.
 
 
-## Unpacking data from material.bin files
+## Unpack data from material.bin {#unpack-data}
 
-```sh
-java -jar MaterialBinTool-all.jar -u "material.bin files to unpack"
+::: code-group
+```sh [Windows]
+.\MaterialBinTool.exe --data-only -u "material.bin files to unpack"
 ```
+```sh [Linux]
+java -jar ./MaterialBinTool.jar --data-only -u "material.bin files to unpack"
+```
+:::
 
 You can find material.bin files inside `<minecraft data path>/assets/renderer/materials`
 
 
-## Merged material files using MBT {#merged-data}
+## Merged material data {#merged-data}
 
 Material data from multiple platforms can be merged into a single data file and then be used to compile materials that will work on all platforms that were included in the merge.
 Keep in mind that the final material.bin file will be quite large.
 
-To merge material data using the MBT jar, run:
-```sh
+To merge material data using the MBT, run:
+::: code-group
+```sh [Windows]
+.\MaterialBinTool.exe --data-only -o "output dir" -m "material.json files of each platform"
+```
+```sh [Linux]
 java -jar ./MaterialBinTool-all.jar --data-only -o "output dir" -m "material.json files of each platform"
 ```
+:::
 
 This will only work if the material.json files are all from the same version of MC.
 

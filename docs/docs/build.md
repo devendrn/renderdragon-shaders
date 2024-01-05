@@ -12,13 +12,35 @@ If you find one, please open an issue [here](https://github.com/devendrn/renderd
 
 :::
 
+## Prerequisites 
+
+* Windows: [Git](https://git-scm.com/download/win)
+* Linux: [Git](https://git-scm.com/download/linux), [OpenJDK](https://openjdk.org/) version 8 or higher (or Java)
+
 ## Setup workspace
 
-1. Download the unofficial shader template source from this repository:  
-   [RenderDragonSourceInv](https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv)
+1. Clone the unofficial shader template source: [RenderDragonSourceInv](https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv)
 
-2. Run `setup_build_environment.bat`.
-   This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
+::: code-group
+```sh [Windows]
+git clone https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv
+```
+``` [Linux]
+will be added later
+```
+:::
+
+2. Run setup. This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
+
+::: code-group
+```cmd [Windows]
+.\setup_build_environment.bat
+```
+```sh [Linux]
+./setup.sh
+```
+:::
+
 
 ## About the source code
 
@@ -59,7 +81,6 @@ You can find the available flags and values for material from its corresponding 
 
 ## Building materials
 
-You can build shader material files using `build.bat`.
 The build script accepts the following arguments:
 
 ```
@@ -69,21 +90,31 @@ The build script accepts the following arguments:
 ```
 
 To build all shader materials, run:
-
-```shell
+::: code-group
+```sh [Windows]
 ./build.bat
 ```
-
-To build specific materials only, run:
-```shell
-./build.bat -m RenderChunk Sky
+```sh [Linux]
+./build.sh
 ```
+:::
 
-To build files for a specific platform, run:
-```shell
+To build certain materials for a specific platform, run:
+::: code-group
+```sh [Windows]
 ./build.bat -m RenderChunk Sky -p Android
 ```
-Supported platforms: `Android Windows iOS`
+```sh [Linux]
+./build.sh -m RenderChunk Sky -p Android
+```
+:::
+
+::: tip Supported platforms
+Unpacked material data for `Android` `Windows` and `iOS` are included.
+For other platforms like Switch, you have to manually unpack its material.bin files. See [this](extra#unpack-data).
+
+Compiling for `Windows` is only possible on Windows.
+:::
 
 Optionally if you want to merge multiple platform material files into a single material file, you can take a look at [this](extra#merged-data).
 
@@ -101,13 +132,13 @@ If you have edited the LegacyCubemap, then you have to reload the entire game, b
 
 You can use free graphics debugging tools like Pix, RenderDoc for debugging your shader.
 
-### Using Pix on Windows: 
+### Using PIX on Windows
 
 Here's a link to download PIX, you can figure out the rest yourself.  
 [Download PIX](https://devblogs.microsoft.com/pix/download/)
 
 
-### Using RenderDoc on Linux:
+### Using RenderDoc on Linux
 
 [RenderDoc](https://renderdoc.org/) is a free stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, or Android.
 

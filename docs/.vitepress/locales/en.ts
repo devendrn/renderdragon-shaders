@@ -72,7 +72,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Getting started', link: 'start' },
         { text: 'Building shaders', link: 'build' },
-        { text: 'Extra', link: 'extra' },
+        { text: 'Extra resources', link: 'extra' },
         { text: 'Utilities', link: 'utilities' }
       ]
     }
