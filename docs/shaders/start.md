@@ -2,7 +2,8 @@
 # RenderDragon Shaders
 
 ::: danger Incomplete Documentation!
-This documentation website is still in its early stages of development! Please don't rely on any content provided here.
+This documentation website is still in its early stages of development!
+Please don't rely on any content provided here.
 :::
 
 Minecraft Bedrock does not officially support loading third-party RenderDragon shaders.
@@ -15,5 +16,7 @@ A curated list of shaders for RenderDragon.
 
 ## Deferred Pipeline Shaders
 
-A curated list of shaders for the deferred pipeline of RenderDragon. To use these shaders, you must be on the latest Minecraft (beta).
+A curated list of shaders for the deferred pipeline of RenderDragon.
+To use these shaders, you must be on the latest Minecraft (beta).
+
 ### [🡪 Explore deferred shaders](list/deferred)

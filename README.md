@@ -2,7 +2,9 @@
 
 An unofficial documentation webpage about RenderDragon shaders, built using Vitepress.
 
-This webpage builds upon **[Render-dragon-shader-list](https://github.com/DominoKorean/Render-dragon-shader-list)**, addressing some of its drawbacks in displaying contents efficiently for an average user. It also extends by providing documentation and resources on making custom shaders for RenderDragon. **The webpage is however not complete yet.**
+This webpage builds upon **[Render-dragon-shader-list](https://github.com/DominoKorean/Render-dragon-shader-list)**, addressing some of its drawbacks in displaying contents efficiently for an average user.
+It also extends by providing documentation and resources on making custom shaders for RenderDragon.
+**The webpage is however not complete yet.**
 
 ## Progress
 
@@ -60,7 +62,8 @@ npm run docs:dev
 
 ### 1. Write docs
 
-You can add new sections in documentation to cover resources that you think might help others. If you want to create a new page for the same, create a new .md file in `docs/docs/` and link this to the documentation sidebar in `en.ts`
+You can add new sections in documentation to cover resources that you think might help others.
+If you want to create a new page for the same, create a new .md file in `docs/docs/` and link this to the documentation sidebar in `en.ts`
 
 ### 3. Improve or update content
 
@@ -113,8 +116,12 @@ You can help in improving the documentation by fixing typos, rectifying incorrec
 
 ## Feedbacks
 
-Feedbacks and suggestions are also welcome! You could suggest how to improve the layout of displayed content, like adding certain changes in shader banner cards. Maybe you have a better logo for this website in hand. Whatever it may be, we'd love to hear your thoughts and keep improving this webpage.
+Feedbacks and suggestions are also welcome!
+You could suggest how to improve the layout of displayed content, like adding certain changes in shader banner cards.
+Maybe you have a better logo for this website in hand.
+Whatever it may be, we'd love to hear your thoughts and keep improving this webpage.
 
 ## Note
 
-This webpage/repository has no affiliation with Mojang Studios or Minecraft. **RenderDragon and its assets are solely owned by Mojang Studios.**
+This webpage/repository has no affiliation with Mojang Studios or Minecraft.
+**RenderDragon and its assets are solely owned by Mojang Studios.**
