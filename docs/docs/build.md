@@ -8,7 +8,7 @@ You will be using a template repository with all the necessary scripts and code 
 
 This is an unofficial way to make custom shaders.
 There may also be mistakes or incorrect information in this guide.
-If you find one, please open an issue [here](https://github.com/devendrn/renderdragon-shaders) or make a PR. 
+If you find one, please open an issue [here](https://github.com/devendrn/renderdragon-shaders). 
 
 :::
 
@@ -25,8 +25,8 @@ If you find one, please open an issue [here](https://github.com/devendrn/renderd
 ```sh [Windows]
 git clone https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv
 ```
-``` [Linux]
-will be added later
+```sh [Linux]
+git clone https://github.com/devendrn/RenderDragonSourceCodeInv
 ```
 :::
 
@@ -130,7 +130,7 @@ If you have edited the LegacyCubemap, then you have to reload the entire game, b
 
 ## Debugging shader
 
-You can use free graphics debugging tools like Pix, RenderDoc for debugging your shader.
+You can use free graphics debugging tools like PIX, RenderDoc for debugging your shader.
 
 ### Using PIX on Windows
 

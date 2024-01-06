@@ -15,7 +15,7 @@ It also extends by providing documentation and resources on making custom shader
 |-|-|
 | Home | ✅ |
 | Installation start<br>Android<br>Windows<br>iOS<br>Linux | ✅<br>❌<br>❌<br>❌<br>✅ |
-| Docs start<br>Building (Win)<br>Building (Linux)<br> Utilites<br>Extras | ✅<br>✅<br>❌<br>✅<br>❌ |
+| Docs start<br>Building (Win)<br>Building (Linux)<br>Utilities<br>Extras | ✅<br>✅<br>✅<br>✅<br>❌ |
 | Shaders start<br>RD List<br>Deferred List | ✅<br>❌<br>✅ |
 
 ## Pages structure
