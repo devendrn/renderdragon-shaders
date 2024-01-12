@@ -1,17 +1,17 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
 
 export const koConfig = defineConfig({  
-  title: "RenderDragon Shaders",
-  description: "Unofficial documentation page for RenderDragon Shaders",
+  title: "렌더드래곤 셰이더",
+  description: "RenderDragon 셰이더에 대한 비공식 문서 페이지",
   themeConfig: {
     nav: [
       {
-        text: 'Shaders',
+        text: '셰이더',
         link: '/ko/shaders/start',
         activeMatch: '/shaders/'
       },
       {
-        text: 'Docs',
+        text: '문서',
         link: '/ko/docs/start',
         activeMatch: '/docs/'
       }
@@ -28,29 +28,29 @@ export const koConfig = defineConfig({
     },
     editLink: {
       pattern: 'https://github.com/devendrn/renderdragon-shaders/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
+      text: '깃허브에서 이 페이지 편집 하기'
     },
     footer: {
-      message: "This site is not affiliated with Mojang Studios."
+      message: "본 사이트는 Mojang Studios와 제휴되어 있지 않습니다."
     },
     docFooter: {
-      prev: "Previous page",
-      next: "Next page"
+      prev: "전 페이지",
+      next: "다음 페이지"
     },
-    sidebarMenuLabel: "Menu",
-    returnToTopLabel: "Return to top",
-    lastUpdated: { text: "Last updated" },
-    outline: { label: "On this page" }
+    sidebarMenuLabel: "메뉴",
+    returnToTopLabel: "위로 돌아가기",
+    lastUpdated: { text: "마지막으로 업데이트 됨" },
+    outline: { label: "이 페이지에서" }
   }
 })
   
 function sidebarShaders(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Guide',
+      text: '가이드',
       items: [
         {
-          text: 'Installation',
+          text: '설치법',
           base: '/ko/shaders/installation/',
           link: 'start',
           items: [
@@ -63,7 +63,7 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: 'Shaders List',
+      text: '셰이더 리스트',
       items: [
         { text: 'Explore', link: 'start' },
         { text: 'Forward', link: 'list/rd' },
@@ -76,12 +76,12 @@ function sidebarShaders(): DefaultTheme.SidebarItem[] {
 function sidebarDocs(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Documentation',
+      text: '문서',
       items: [
-        { text: 'Getting started', link: 'start' },
-        { text: 'Building shaders', link: 'build' },
-        { text: 'Extra resources', link: 'extra' },
-        { text: 'Utilities', link: 'utilities' }
+        { text: '시작하기', link: 'start' },
+        { text: '셰이더 빌드하기', link: 'build' },
+        { text: '기타 리소스', link: 'extra' },
+        { text: '유틸리티', link: 'utilities' }
       ]
     }
   ]
