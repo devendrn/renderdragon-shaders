@@ -1,6 +1,6 @@
 ---
 name: 'Origin Shader Deferred'
-tags: ['Android', 'Windows']
+tags: ['안드로이드', '윈도우']
 banner: '/renderdragon-shaders/images/origin-shader-deferred-0.jpg'
 last_updated: 2023-10-13
 ---

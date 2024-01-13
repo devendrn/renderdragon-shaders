@@ -1,6 +1,6 @@
 ---
 name: 'YSS Shader'
-tags: ['안드로이드', '윈도우', 'iOS', 'Xbox', '스위치']
+tags: ['안드로이드', '윈도우', 'iOS', 'Xbox']
 banner: '/renderdragon-shaders/images/yss-shader-0.jpg'
 last_updated: 2023-11-30
 ---
@@ -21,8 +21,8 @@ last_updated: 2023-11-30
 최초의 RenderDragon 셰이더 중 하나.
 
 * 소스코드: 비공개 소스
-* 라이선스: 명시되지 않음
-* 지원되는 플랫폼: 안드로이드, 윈도우, iOS, XBox, 스위치
+* 지원되는 플랫폼: 안드로이드, 윈도우, iOS, XBox
+* 웹사이트: [yss.minecraft.pe](https://yss.minecraft.pe/)
 * 디스코드 서버: [Years Static Shader Group](https://discord.gg/yss)
 
 ### 다운로드 <Badge type="warning" text="베타" />

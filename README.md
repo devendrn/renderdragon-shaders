@@ -65,11 +65,11 @@ npm run docs:dev
 You can add new sections in documentation to cover resources that you think might help others.
 If you want to create a new page for the same, create a new .md file in `docs/docs/` and link this to the documentation sidebar in `en.ts`
 
-### 3. Improve or update content
+### 2. Improve or update content
 
 You can help in improving the documentation by fixing typos, rectifying incorrect information, adding more details, or updating shaders.
 
-### 4. Add shaders
+### 3. Add shaders
 1. Create a new file, `shader-name.md` inside:  
    * `shaders/list/deferred` for Deferred RenderDragon shader
    * `shaders/list/rd` for RenderDragon shader

@@ -21,6 +21,7 @@ Also one of the earliest RenderDragon shader to use the deferred pipeline.
 
 * Source code: Closed source
 * Supported platforms: Android, Windows
+* Website: [yss.minecraft.pe](https://yss.minecraft.pe/)
 * Discord server: [Years Static Shader Group](https://discord.gg/yss)
 
 ### Download <Badge type="danger" text="Beta" />
