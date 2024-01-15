@@ -21,7 +21,7 @@ last_updated: 2023-09-06
 Newb X Legacy는 MCBE 1.20용으로 포팅된 newb-shader-mcbe의 버전입니다. 이것은 "가벼움과 부드러운 미학"을 테마로 한 바닐라 셰이더입니다.
 
 * 소스코드: [newb-x-mcbe](https://github.com/devendrn/newb-x-mcbe)
-* 라이선스: 명시되지 않음
+* 라이선스: MIT License
 * 지원되는 플랫폼: 안드로이드, 윈도우, iOS
 * 디스코드 서버: [Newb Community](https://discord.gg/newb-community-844591537430069279)
 * 웹사이트: [Newb Shader](https://devendrn.github.io/newb-shader/)

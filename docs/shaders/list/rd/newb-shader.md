@@ -21,6 +21,7 @@ last_updated: 2023-09-06
 Newb X Legacy is an enhanced vanilla shader based on the theme "lightweight and soft aesthetics"
 
 * Source code: [newb-x-mcbe](https://github.com/devendrn/newb-x-mcbe)
+* License: MIT License
 * Supported platforms: Android, Windows, iOS
 * Discord server: [Newb Community](https://discord.gg/newb-community-844591537430069279)
 * Website: [devendrn.github.io/newb-shader/](https://devendrn.github.io/newb-shader/)
