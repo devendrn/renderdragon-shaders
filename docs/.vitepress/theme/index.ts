@@ -5,6 +5,8 @@ import ShaderCard from './components/ShaderCard.vue'
 import Gallery from './components/Gallery.vue'
 import ShaderList from './components/ShaderList.vue'
 
+import './theme.css'
+
 export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
