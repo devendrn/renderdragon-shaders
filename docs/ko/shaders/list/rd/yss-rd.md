@@ -1,18 +1,18 @@
 ---
-name: 'YSS Shader'
+name: 'YSS RD'
 tags: ['안드로이드', '윈도우', 'iOS', 'Xbox']
-banner: '/renderdragon-shaders/images/yss-shader-0.jpg'
+banner: '/renderdragon-shaders/images/yss-rd-0.jpg'
 last_updated: 2023-11-30
 ---
 
-# YSS Shader
+# YSS RD
 
 <Gallery 
 :images="[
-    '/renderdragon-shaders/images/yss-shader-0.jpg',
-    '/renderdragon-shaders/images/yss-shader-1.jpg',
-    '/renderdragon-shaders/images/yss-shader-2.jpg',
-    '/renderdragon-shaders/images/yss-shader-3.jpg'
+    '/renderdragon-shaders/images/yss-rd-0.jpg',
+    '/renderdragon-shaders/images/yss-rd-1.jpg',
+    '/renderdragon-shaders/images/yss-rd-2.jpg',
+    '/renderdragon-shaders/images/yss-rd-3.jpg'
     ]"
 />
 
