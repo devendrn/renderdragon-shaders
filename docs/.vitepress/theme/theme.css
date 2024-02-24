@@ -45,3 +45,7 @@
   50% { opacity: 1.0;}
   100% { opacity: 0.6;}
 }
+
+.main p > img {
+  border-radius: 8px;
+}

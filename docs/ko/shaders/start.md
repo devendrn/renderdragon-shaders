@@ -10,10 +10,16 @@ Minecraft Bedrock는 공식적으로 서드파티 렌더드래곤 셰이더의 �
 
 ## 렌더드래곤 셰이더
 
+![RenderDragon Shaders Banner](/banner-rd-shaders.jpg)
+
 렌더드래곤 셰이더 목록입니다.
+
 ### [🡪 셰이더 탐색하기](list/rd)
 
 ## 디퍼드 파이프라인 셰이더
 
+![RenderDragon Shaders Banner](/banner-deferred-shaders.jpg)
+
 렌더드래곤의 디퍼드 파이프라인을 위한 셰이더들의 선별된 리스트입니다. 이 셰이더들을 사용하기 위해서는 최신 버전의 마인크래프트(베타)가 필요합니다.
+
 ### [🡪 디퍼드 셰이더 탐색하기](list/deferred)

@@ -1,16 +1,15 @@
+::: danger Danger
+This is an unofficial way to make custom shaders.
+There may also be mistakes in this guide.
+If you find one, report it [here](https://github.com/devendrn/renderdragon-shaders/issues). 
+:::
+<br>
+
 # Building shaders
 
 ddf8196's [MaterialBinTool](https://github.com/ddf8196/MaterialBinTool) along with shaderc are the main utilities that let you create custom shaders for RenderDragon.
 This page will show you how to setup, build, and test your custom shader files.
 You will be using a template repository with all the necessary scripts and code to get started. 
-
-::: danger Danger
-
-This is an unofficial way to make custom shaders.
-There may also be mistakes or incorrect information in this guide.
-If you find one, please open an issue [here](https://github.com/devendrn/renderdragon-shaders). 
-
-:::
 
 ## Prerequisites 
 

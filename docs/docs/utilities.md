@@ -8,6 +8,9 @@ This page will cover a list of utilities relevant to this documentation.
 [MaterialBinTool](https://github.com/ddf8196/MaterialBinTool) is a tool for packing/unpacking material.bin files.
 It also lets you compile material.bin files from source and material.json with the help of shaderc.
 
+## RenderDragonSourceCodeInv
+
+[RenderDragonSourceCodeInv](https://github.com/SurvivalApparatusCommunication/RenderDragonSourceCodeInv) is a template repository containing the base source code required to build custom RenderDragon shaders.
 
 ## bgfx-mcbe
 
