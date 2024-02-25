@@ -4,51 +4,51 @@ An unofficial documentation webpage about RenderDragon shaders, built using Vite
 
 This webpage builds upon **[Render-dragon-shader-list](https://github.com/DominoKorean/Render-dragon-shader-list)**, addressing some of its drawbacks in displaying contents efficiently for an average user.
 It also extends by providing documentation and resources on making custom shaders for RenderDragon.
-**The webpage is however not complete yet.**
+ 
+> [!NOTE]
+> You can contribute to this documentation in the following ways:  
+> 🡢 Opening an issue  
+> 🡢 Forking repository and making a PR
+> 
+> See [contributing section](#contributing) for more info.
 
-## Progress
+## Progress 
 
-✅ - Done (but may have errors)  
-❌ - Incomplete 
-
-| Content | Status |
-|-|-|
-| Home | ✅ |
-| Installation start<br>Android<br>Windows<br>iOS<br>Linux | ✅<br>✅<br>✅<br>✅<br>✅ |
-| Docs start<br>Building (Win)<br>Building (Linux)<br>Utilities<br>Extras | ✅<br>✅<br>✅<br>✅<br>❌ |
-| Shaders start<br>RD List<br>Deferred List | ✅<br>❌<br>✅ |
+- [x] Home page
+- [x] Installation guide (Android/Win/iOS/Linux)
+- [ ] Documentation
+  - [x] Building (Win/Linux)
+  - [x] Utilities
+  - [ ] Extras
+  - [ ] Code Snippets
+- [ ] Shaders List
+  - [ ] RD List
+  - [x] Deferred List
 
 ## Pages structure
 
 ```
-docs
-├─.vitepress
-│  └─ locales
-│     ├─ en.ts
-│     └─ ko.ts     <- Korean version of en.ts
-├─ public          <- Images
-├─ ko              <- Korean version of pages
-├─ docs            <- RD docs (TODO)
-├─ shaders
-│  ├─ installation <- Installation guides
-│  ├─ list
-│  │  ├─ rd        <- RD shaders
-│  │  └─ deferred  <- Deferred RD shaders
-│  └─ start.md     <- Shaders page
-└─ index.md        <- Home page
+📂 docs
+├─📂 .vitepress
+│  └─📂 locales
+│     ├─📄 en.ts
+│     └─📄 ko.ts     🡠 Korean version of en.ts
+├─📂 public          🡠 Images
+├─📂 ko              🡠 Korean version of pages
+├─📂 docs            🡠 RD docs
+├─📂 shaders
+│  ├─📂 installation 🡠 Installation guides
+│  ├─📂 list
+│  │  ├─📂 rd        🡠 RD shaders
+│  │  └─📂 deferred  🡠 Deferred RD shaders
+│  └─📄 start.md     🡠 Shaders page
+└─📄 index.md        🡠 Home page
 ```
 
 ## Setup
 
-You will need 
-[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git),
-[node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+You will need [node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-Clone this repository
-```
-git clone https://github.com/devendrn/renderdragon-shaders
-cd renderdragon-shaders
-```
 Install dependencies
 ```
 npm install
@@ -58,16 +58,17 @@ Start local server for realtime preview
 npm run docs:dev
 ```
 
-## Contribute
+## Contributing
+You can contribute by either forking this repo and making a PR, or by opening an issue with required details.
 
-### 1. Write docs
+### 1. Improve or update content
+
+You can help in improving the documentation by fixing typos, rectifying incorrect information, adding more details, or updating shaders.
+
+### 2. Write docs
 
 You can add new sections in documentation to cover resources that you think might help others.
 If you want to create a new page for the same, create a new .md file in `docs/docs/` and link this to the documentation sidebar in `en.ts`
-
-### 2. Improve or update content
-
-You can help in improving the documentation by fixing typos, rectifying incorrect information, adding more details, or updating shaders.
 
 ### 3. Add shaders
 1. Create a new file, `shader-name.md` inside:  
@@ -113,13 +114,6 @@ You can help in improving the documentation by fixing typos, rectifying incorrec
 
 4. Preview and verify the changes before making a pull request
 
-
-## Feedbacks
-
-Feedbacks and suggestions are also welcome!
-You could suggest how to improve the layout of displayed content, like adding certain changes in shader banner cards.
-Maybe you have a better logo for this website in hand.
-Whatever it may be, we'd love to hear your thoughts and keep improving this webpage.
 
 ## Note
 
