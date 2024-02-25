@@ -6,13 +6,13 @@
 Jailbreak is required to access and modify Minecraft game files. If you don't have a jailbroken device, then follow [modified IPA method](#using-modified-ipa).
 :::
 
+<YTEmbed url="https://www.youtube.com/embed/WS_xEI4xOJ4?si=rndA8K0Ss8i2Lg9I&amp;start=150" aspect="1.78"/>
+
 1. First, install [Filza](https://filzadownload.com/). 
 2. Go to `var\containers\Bundle\Application\Minecraft\minecraftpe.app\data\renderer\materials`.
 3. Back up the `materials` folder. If you don't do this you will be unable to remove the shader after.
 4. Select material files of the shader pack, and copy them.
 5. Go back to the previous location and replace the material.bin files with the copied shader files.
-
-For a visual guide, you can watch this [video tutorial by LAZZA MCPE](<https://youtu.be/Fgs0RQwbmpA?t=176>)
 
 To remove the shader, just copy and paste the old material.bin files you backed up to that location.
 

@@ -4,6 +4,8 @@
 
 BetterRenderDragon is an enhancement mod for the RenderDragon engine of Minecraft Bedrock that lets you enable deferred rendering, disable ray tracing, and load RenderDragon shaders from resource packs.
 
+<YTEmbed url="https://www.youtube.com/embed/MjlobLd4d7s?si=B6qcMExnUtMzREYe" aspect="1.78"/>
+
 ### Steps
 
 1. Download [BetterRenderDragon.zip](https://github.com/ddf8196/BetterRenderDragon/releases/latest) and extract it.
@@ -12,7 +14,6 @@ BetterRenderDragon is an enhancement mod for the RenderDragon engine of Minecraf
 4. Press `F6` to open BetterRenderDragon window and then enable the MaterialBinLoader option.
 5. Activate the shader in Global Resource Packs and restart Minecraft.
 
-For a visual guide, you can watch this [video tutorial by Hybred](<https://youtu.be/MjlobLd4d7s>)
 
 ## Manual Method
 

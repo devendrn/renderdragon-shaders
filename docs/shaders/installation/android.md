@@ -4,6 +4,8 @@
 
 The **Patch App** is a modified Minecraft app that includes **MaterialBinLoader**, which is a patch to make the game load RenderDragon shader files (material.bin) from resource packs. 
 
+<YTEmbed url="https://www.youtube.com/embed/Q-PuE4peMHc?si=zA74SHAEHFmAMQLQ&start=110" aspect="2.32"/>
+
 ### Steps 
 
 ::: info Note
@@ -51,6 +53,8 @@ The patch app uses a different name "Minecraft (Patch)", so you don't have to un
 For this method, reinstallation of Minecraft will be necessary, so please make sure to backup your Minecraft worlds before proceeding.
 :::
 
+<YTEmbed url="https://www.youtube.com/embed/MYlnjqnFBgw?si=ZPu3BMmGxzHDME25" aspect="2.2"/>
+
 ### Get Minecraft APK
 
 An un-split Minecraft APK is required to edit. You can skip the following steps if you already have one.
@@ -78,4 +82,3 @@ If there are additional files like base.mcpack accompanying the shader file, fol
 10. Select the base.mcpack file and click on TYPE at the bottom left. Choose ALL, then select Minecraft to open it.
 11. Once the resource pack is loaded, apply the resource pack, and the process will be complete.
 
-For a visual guide, you can watch this [video tutorial](https://youtu.be/MYlnjqnFBgw).
