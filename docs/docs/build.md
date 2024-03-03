@@ -33,9 +33,11 @@ git clone https://github.com/devendrn/RenderDragonSourceCodeInv
 
 ::: code-group
 ```cmd [Windows]
+cd RenderDragonSourceCodeInv
 .\setup_build_environment.bat
 ```
 ```sh [Linux]
+cd RenderDragonSourceCodeInv
 ./setup.sh
 ```
 :::
