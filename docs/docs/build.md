@@ -93,7 +93,7 @@ The build script accepts the following arguments:
 To build all shader materials, run:
 ::: code-group
 ```sh [Windows]
-./build.bat
+.\build.bat
 ```
 ```sh [Linux]
 ./build.sh
@@ -103,7 +103,7 @@ To build all shader materials, run:
 To build certain materials for a specific platform, run:
 ::: code-group
 ```sh [Windows]
-./build.bat -m RenderChunk Sky -p Android
+.\build.bat -m RenderChunk Sky -p Android
 ```
 ```sh [Linux]
 ./build.sh -m RenderChunk Sky -p Android
