@@ -29,13 +29,15 @@ git clone https://github.com/devendrn/RenderDragonSourceCodeInv
 ```
 :::
 
-2. Run setup. This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
+2. Go inside directory and run setup. This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
 
 ::: code-group
 ```cmd [Windows]
+cd RenderDragonSourceCodeInv
 .\setup_build_environment.bat
 ```
 ```sh [Linux]
+cd RenderDragonSourceCodeInv
 ./setup.sh
 ```
 :::
@@ -91,7 +93,7 @@ The build script accepts the following arguments:
 To build all shader materials, run:
 ::: code-group
 ```sh [Windows]
-./build.bat
+.\build.bat
 ```
 ```sh [Linux]
 ./build.sh
@@ -101,7 +103,7 @@ To build all shader materials, run:
 To build certain materials for a specific platform, run:
 ::: code-group
 ```sh [Windows]
-./build.bat -m RenderChunk Sky -p Android
+.\build.bat -m RenderChunk Sky -p Android
 ```
 ```sh [Linux]
 ./build.sh -m RenderChunk Sky -p Android
