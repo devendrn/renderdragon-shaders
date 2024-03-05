@@ -29,7 +29,7 @@ git clone https://github.com/devendrn/RenderDragonSourceCodeInv
 ```
 :::
 
-2. Run setup. This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
+2. Go inside directory and run setup. This will download MaterialBinTool, shaderc, and material json files necessary for compiling shader files.
 
 ::: code-group
 ```cmd [Windows]
