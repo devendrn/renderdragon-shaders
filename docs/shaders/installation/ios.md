@@ -25,16 +25,27 @@ Sideloaded Minecraft IPA does not support online multiplayer. There are workarou
 :::
 
 ### Extracting IPA
-On Windows, you can use iMazing for IPA extraction. Here's how:
 
+**1. On Windows, you can use iMazing for IPA extraction. Here's how:**
 1. First, install [iMazing](https://imazing.com/?gad=1&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeoNt1rkkKWWJVaawEFnsUmV3QjthBa3UjxAL7h_cefyqWyxDuxRis8aAvGIEALw_wcB).
 2. Connect your iPhone to the PC via USB.
 3. Once iMazing is installed, click "Continue with the Free Trial" and go to App Management.
-4. Right-click on Minecraft and click "Install .IPA" (Note: The Korean translation within the program might be incorrect).
+4. Right-click on Minecraft and click "Install .IPA".
 5. After extracting the IPA, open the file using a program like Bandizip (or any program that can handle compressed files).
 6. Navigate to `Payload\minecraft.app\data\renderer\materials`.
 7. Replace the existing material.bin shader file with the downloaded material.bin shader file.
 8. Finally, sideload Minecraft back onto your device.
+
+**2. On iOS:**
+1. Install ES File Explorer from AppStore.
+2. Find and download Minecraft IPA online.
+3. Use ES File Explorer to change `.ipa` extension to `.zip` extension.
+4. Extract the `.zip` file.
+5. Download the iOS material.bin files of the shader you wish to install.
+6. Copy paste the material.bin files to location `/Payload/minecraft.app/data/renderer/materials` inside the extracted folder.
+7. Zip the Payload folder.
+8. Rename `Payload.zip` to `Payload.ipa`.
+9. Now sideload this modified IPA onto your device.
 
 ### Sideloading IPA
 

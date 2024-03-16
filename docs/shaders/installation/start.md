@@ -1,8 +1,8 @@
 # Installation
 
-Because Minecraft does not officially support third-party RenderDragon shaders, you have to use some tools and programs to install these shaders. 
+Because Minecraft does not officially support third-party RenderDragon shaders, you have to use some tools to install these shaders. 
 
-Currently, the following platforms are supported by third-party shaders:
+See the installation guide for your platform:
 
 * [Android](android)
 * [Windows](windows)

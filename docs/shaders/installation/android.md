@@ -8,8 +8,12 @@ The **Patch App** is a modified Minecraft app that includes **MaterialBinLoader*
 
 ### Steps 
 
+::: tip Download Patch App
+The Patch App is maintained by YSS Group. You can download the APK file from their official website: [yss.minecraft.pe/MinecraftPatched](https://yss.minecraft.pe/en/MinecraftPatched/)
+:::
+
 ::: info Note
-The patch app uses a different name "Minecraft (Patch)", so you don't have to uninstall your original Minecraft app. You can keep both apps together.
+The Patch App uses a different name "Minecraft (Patch)", so you don't have to uninstall your original Minecraft app. You can keep both apps together.
 :::
 
 1. First, download and install the Patch App. You can use [64Bit Checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to know which version is supported on your device.
@@ -17,35 +21,6 @@ The patch app uses a different name "Minecraft (Patch)", so you don't have to un
 3. Using a file manager, open the `.mcpack` with Minecraft (Patch). Use [NMM File Manager](https://play.google.com/store/apps/details?id=in.mfile) if your file manager doesn't let you open files with a different app.
 4. After the pack has been successfully imported, activate it in global resources.
 5. Finally, restart Minecraft.
-
-### Download Patch App 
-
-::: tip Patch App 64-bit
-
-* [Minecraft-1.20.51.01_arm64_v8a_patched.apk](https://yss.minecraft.pe/PatchAPP/1.20.50%20Release/1.20.51.01_arm64_v8a_patched.apk)
-* [Minecraft-beta-1.20.60.25_arm64_v8a_patched.apk](https://yss.minecraft.pe/PatchAPP/1.20.60%20Beta/1.20.60.25_arm64_v8a_patched.apk)
-
-:::
-
-::: tip Patch App 32-bit
-
-* [Minecraft-1.20.51.01_arm32_v7a_patched.apk](https://www.mediafire.com/file/f6qaggi56jn8tk9/1.20.51.01_arm32_v7a_patched.apk/file)
-
-:::
-
-::: details Older versions
-
-* [1.20.41.02_arm64_v8a_patched](https://download2391.mediafire.com/c6gdbcv0jeqgNaGwGVOXqur2W2qehRvg2vZpG6rufpxszrULg9uiXlwAMSWY1KXlLt7v2SwVAeGudQxyPSBNct8wczEyydLKHlm2fUHHvYPtBcecaLqVYOa-tO3sO4z0HTB-5tASe5XNmtOFLDqpbj5YnGks94AFMgx_pqqp_w/eyhdpgboshmwlq1/1.20.41.02_arm64_v8a_patched.apk)
-* [1.20.40.01_arm64_v8a_patched](https://download2434.mediafire.com/ydujuynzz76ghooJF8iQOwA1vIY35rhSOlzOprpc_NTf2HmUzF9gNf5gsPo3iz31ZLT3vPiV_y27AElWE6rodgS8WWdxS3bDWrJOssCbZdGXgF70PS-hYphBjsKJ822MpuMMVjgSVp96EXs4GMjFu2hOeT5ErnP5qiMf-IRvSg/olatjslsodtp9nk/1.20.40.01_arm64_v8a_patched.apk)
-* [1.20.32.03_arm64_v8a_patched](https://download2281.mediafire.com/hkz64wckovrgyubcD9m0WXb7TpqlEtbLaZH4QpnQjgJyQ5dETGHnIOvnUN-INgB25ueuju9ed2faPEICyX1k3KxZKvjBuHrrlBTQ_w3U0LtPCnLnf5mjP_d68FiDhZ7Rah0JkKdv-bfTMfvPACPJNwwV28RTxMGeN_xdl2WJ_Q/jbiun3m59ustpo3/1.20.32.03_arm64_v8a_patched.apk)
-
-:::
-
-::: details Older versions (beta/preview)
-
-* [beta-1.20.50.21_arm64_v8a_patched](https://download2390.mediafire.com/sb2l0vri80ig7Cs_pzhemU6NQR6uqtZ0G27zLw0WvjRl6JNSM0XiSC_ssNhVPTKKgmKNcTpq1H9oAv6dodaBFNg89feNrP9INlPWqFoJPuBcs4GcU_t2d3ENPmqfbGXnEXdFaWAZEkRSTfxYaPpnzYY83cIhhsVqzO69sjXSxw/gwrf0tf6f0dgjvj/1.20.50.21_arm64_v8a_patched.apk)
-
-:::
 
 ## Manual method
 
@@ -81,4 +56,3 @@ If there are additional files like base.mcpack accompanying the shader file, fol
 
 10. Select the base.mcpack file and click on TYPE at the bottom left. Choose ALL, then select Minecraft to open it.
 11. Once the resource pack is loaded, apply the resource pack, and the process will be complete.
-
