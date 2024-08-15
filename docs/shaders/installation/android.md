@@ -1,14 +1,14 @@
 # Installation on Android
 
-## Using Patch App
+## Using Patch App (MBL)
 
-The **Patch App** is a modified Minecraft app that includes **MaterialBinLoader**, which is a patch to make the game load RenderDragon shader files (material.bin) from resource packs. 
+The **Patch App (MaterialBinLoader)** is a modified Minecraft app that includes **MaterialBinLoader**, which is a patch to make the game load RenderDragon shader files (material.bin) from resource packs. 
 
 <YTEmbed url="https://www.youtube.com/embed/Q-PuE4peMHc?si=zA74SHAEHFmAMQLQ&start=110" aspect="2.32"/>
 
 ### Steps 
 
-::: tip Download Patch App
+::: tip Download Patch App (MBL)
 The Patch App is maintained by YSS Group. You can download the APK file from their official website: [yss.minecraft.pe/MinecraftPatched](https://yss.minecraft.pe/en/MinecraftPatched/)
 :::
 
@@ -19,6 +19,24 @@ The Patch App uses a different name "Minecraft (Patch)", so you don't have to un
 1. First, download and install the Patch App. You can use [64Bit Checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to know which version is supported on your device.
 2. Download the Android version of the shader pack (`.mcpack`).
 3. Using a file manager, open the `.mcpack` with Minecraft (Patch). Use [NMM File Manager](https://play.google.com/store/apps/details?id=in.mfile) if your file manager doesn't let you open files with a different app.
+4. After the pack has been successfully imported, activate it in global resources.
+5. Finally, restart Minecraft.
+
+## Using Patch App (Draco)
+
+The **Patch App (Draco)** is a modified Minecraft app that includes **DracoPatch**, which is a patch that makes the game load RenderDragon shader files (material.bin) from resource packs. It also includes additional features such as porting shaders with old material formats to the new format on the fly.
+
+::: tip Download Patch App (Draco)
+The Patch App (Draco) is maintained by [mcbegamerxx954](https://github.com/mcbegamerxx954). You can find the download link to the Patch App in YSS Group or Newb Community Discord servers.
+:::
+
+::: info Note
+The Patch App (Draco) uses a different name "Minecraft (DracoPatch)", so you don't have to uninstall your original Minecraft app. You can keep both apps together.
+:::
+
+1. First, download and install the Patch App. 
+2. Download the Android version of the shader pack (`.mcpack`).
+3. Using a file manager, open the `.mcpack` with Minecraft (DracoPatch). Use [NMM File Manager](https://play.google.com/store/apps/details?id=in.mfile) if your file manager doesn't let you open files with a different app.
 4. After the pack has been successfully imported, activate it in global resources.
 5. Finally, restart Minecraft.
 

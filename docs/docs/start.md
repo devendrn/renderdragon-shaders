@@ -31,10 +31,10 @@ _ _ _
 As of now, Minecraft Bedrock does not officially support custom shaders.
 It was removed with the addition of RenderDragon on Bedrock.
 
-The following guide will cover an unofficial way by which you can build custom shaders for RenderDragon. This was possible thanks to [ddf8196](https://github.com/ddf8196), who managed to create some utilities for building custom RenderDragon shaders.
+The following guide will cover an unofficial way by which you can build custom shaders for RenderDragon. This was possible thanks to [ddf8196](https://github.com/ddf8196), who managed to create some utilities for building custom RenderDragon shaders. Please note that Minecraft Bedrock has made some changes to the graphics pipeline recently, making this method obsolete. Consider using veka0's [lazurite](https://github.com/veka0/lazurite/) build tool instead, as it stays more up-to-date. 
 
 If you, like us, also want Minecraft Bedrock to support custom shaders officially, then go ahead and upvote this [feedback post](https://feedback.minecraft.net/hc/en-us/community/posts/360077420452-3rd-party-shader-support-for-render-dragon). 
 
-
-### [🡪 How to build shaders](build)
+### [🡪 How to build shaders using MBT](build)
+### [🡪 How to build shaders using Lazurite](https://veka0.github.io/lazurite/guide/)
 ### [🡪 Utilities](utilities)
